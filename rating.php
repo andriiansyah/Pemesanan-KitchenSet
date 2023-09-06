@@ -33,7 +33,7 @@
         // echo $rating . "<br>";
 ?>
 <link rel="stylesheet" href="cssrating/style.css">
-        <div class="container mb-3">
+        <div class="container mb-3 mt-80px">
             <h1 class="mt-4 mb-3">Memberikan Rating</h1>
 
             <form method="POST" action="rating_edit_proses.php" enctype="multipart/form-data">
@@ -90,7 +90,7 @@
 <?php
     }else {
 ?>
-        <div class="container mb-3">
+        <div class="container mb-3 mt-80px">
             <h1 class="mt-4 mb-3">Memberikan Rating</h1>
 
             <form method="POST" action="rating_tambah_proses.php" enctype="multipart/form-data">

@@ -15,3 +15,31 @@ body {
 .biru {
     color: #0037ed;
 }
+
+.padding-2px {
+    padding: 2px;
+}
+
+.mt-80px {
+    margin-top: 80px;
+}
+
+.header-title::before {
+    content: "";
+    height: 15px;
+    flex-grow: 1;
+    background-color: orange;
+    background-image: -webkit-gradient(linear,0 0,100% 100%,color-stop(.25,#fff),color-stop(.25,transparent),color-stop(.5,transparent),color-stop(.5,#fff),color-stop(.75,#fff),color-stop(.75,transparent),to(transparent));
+    -webkit-background-size: 7px 7px;
+    margin-right: 1rem;
+}
+
+.header-title::after {
+    content: "";
+    height: 15px;
+    flex-grow: 1;
+    background-color: orange;
+    background-image: -webkit-gradient(linear,0 0,100% 100%,color-stop(.25,#fff),color-stop(.25,transparent),color-stop(.5,transparent),color-stop(.5,#fff),color-stop(.75,#fff),color-stop(.75,transparent),to(transparent));
+    -webkit-background-size: 7px 7px;
+    margin-left: 1rem;
+}

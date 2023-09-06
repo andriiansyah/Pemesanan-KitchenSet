@@ -36,7 +36,7 @@
     }
 ?>
 
-<div class="container">
+<div class="container mt-80px">
     <h1 class="mt-3">Checkout</h1>
     <div class="row">
         <div class="col" style="background: #F8F9FA; border: solid; border-color: #F1F1F1">

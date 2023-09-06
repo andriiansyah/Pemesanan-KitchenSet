@@ -47,7 +47,7 @@
     }
 ?>
 
-<div class="container">
+<div class="container mt-80px">
     <div class="row mt-3">
         <div class="col">
             <h5>Kode Transaksi</h5>

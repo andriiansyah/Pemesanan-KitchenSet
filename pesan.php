@@ -11,7 +11,7 @@
         $foto_kitchen = $data['foto_kitchen'];
     }
 ?>
-    <div class="container mb-3">
+    <div class="container mt-80px mb-3">
         <h1 class="mt-4 mb-3">Pesan Kitchen Set</h1>
         <div class="row">
             <div class="col-3">

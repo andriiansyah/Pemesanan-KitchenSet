@@ -4,7 +4,7 @@
     $id_pelanggan = $_GET['id'];
 
     ?>
-    <div class="div bg-secondary">
+    <div class="div bg-secondary mt-80px">
         <div class="container">
             <h1 class="fw-bold text-white pt-3">Cart</h1>
             <hr>

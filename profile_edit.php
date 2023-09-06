@@ -13,7 +13,7 @@
     }
 ?>
 
-    <div class="container">
+    <div class="container mt-80px">
         <h1 class="mt-4">Profile Data Diri</h1>
         <div class="card mb-4">
             <div class="card-header">

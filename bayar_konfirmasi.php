@@ -19,7 +19,7 @@
         $tgl_pembayaran = $data['tgl_pembayaran'];
     }
 ?>
-<div class="container">
+<div class="container mt-80px">
     <div class="card-body">
         <div class="table-responsive">
             <form method="POST" action="bayar_konfirmasi_proses.php" enctype="multipart/form-data">
